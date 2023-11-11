@@ -1,1 +1,2 @@
 # RunnerGame
+# A Runner game with two different levels coins collection system and a health value system, where some obstacles will slow the player and some obstacles will stop him completely and some obstacles that will slow him and will stop him if he touch another type while slowed.
